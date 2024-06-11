@@ -1,4 +1,4 @@
-![Tati-banner.png](https://i.postimg.cc/1zgfPRct/Tati-banner.png)
+![Criative-code.png](https://i.postimg.cc/508BnLXd/Criative-code.png)
 Hey code lovers! 👋
 
  I'm Tatiana Barros, and my journey in technology has been marked by a genuine passion for tech communities.
