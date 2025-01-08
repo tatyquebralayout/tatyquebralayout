@@ -11,7 +11,7 @@
 Like a Jedi exploring the vastness of the Force, I'm a passionate explorer at the intersection of Art, Design, Technology, and Science Fiction ⭐. 
 As a Technology Evangelist at ExpressoTS, I work like a Jedi Master, making complex technologies accessible and understandable for diverse audiences, always building bridges between innovation and understanding.
 
-🚀 My journey extends as a PrograMaria Ambassador and Tech Columnist at Mídia Ninja, where I focus on areas that fascinate me like different planets in the galaxy:
+🚀 My journey extends as a [PrograMaria Ambassador 👩‍🚀](https://www.instagram.com/p/C_d49s-vqbB/?img_index=1) and [Tech Columnist at Mídia Ninja 🥷](https://midianinja.org/author/tatianabarros/), where I focus on areas that fascinate me like different planets in the galaxy:
 
 - Technology and Innovation 🤖💻
 
@@ -22,7 +22,7 @@ As a Technology Evangelist at ExpressoTS, I work like a Jedi Master, making comp
 - Technical Documentation 📘🧠
 
 🗣 As a neurodivergent woman (ASD/ADHD) in technology, I transform challenges into opportunities, as the Force flows through all things 💪. 
-I share experiences about overcoming obstacles, including impostor syndrome (⚫🤖⚔️ the path to the dark side, that is! 👾⭐🔫👸), and develop self-study methods for people to overcome learning difficulties, believing that each unique mind has its own path to knowledge - just like each Jedi's journey is unique 🤝.
+I share experiences about overcoming obstacles, including impostor syndrome (⚫🤖⚔️ the path to the dark side, that is! 👾⭐🔫👸), and develop self-study methods for people to overcome learning difficulties, believing that each unique mind has its own path to knowledge - just like each Jedi's journey is unique 🤝🤩🌌.
 
 Currently exploring the JavaScript universe with emphasis on creative coding through Processing, p5.js, animation libraries, and Generative AI - my own version of Jedi training! 
 🪐 Sometimes I venture into the 🐍Python side of the Force🐍, diving into data and scientific programming. 
