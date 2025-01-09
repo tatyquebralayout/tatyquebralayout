@@ -6,7 +6,8 @@
 
 # May The Force of Code Be With You! ⚔️ 🌌
 
-# Tatiana Barros ⭐🔫👸
+# Tatiana Barros | Padawan on the Path to Jedi Tech Mastery 🚀
+*"Becoming a Jedi Tech Master is not about knowing all answers, but about staying curious and resilient in the face of each new challenge"* ✨
 
 Like a Jedi exploring the vastness of the Force, I'm a passionate explorer at the intersection of Art, Design, Technology, and Science Fiction ⭐. 
 As a Technology Evangelist at ExpressoTS, I work like a Jedi Master, making complex technologies accessible and understandable for diverse audiences, always building bridges between innovation and understanding.
