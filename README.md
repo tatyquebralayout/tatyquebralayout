@@ -2,6 +2,9 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=umataldetatiana%2Fgithub-profile&countColor=%23263759)](https://visitorbadge.io/status?path=umataldetatiana%2Fgithub-profile)
 ![GitHub followers](https://img.shields.io/github/followers/umataldetatiana?style=social)
 
+<!-- Banner -->
+[![Banner](https://i.postimg.cc/nrNmVphW/Banner-Tatiana-Barros.png)](https://www.youtube.com/@umataldetatiana)
+
 # 👩‍💻 Tatiana Barros | Developer Relations | Educadora | Tech Evangelist
 
 Sou profissional de Developer Relations, com foco na construção de ecossistemas saudáveis entre comunidades técnicas e as tecnologias que adotam. Acredito que não basta criar ferramentas poderosas — é preciso criar pontes entre quem desenvolve e quem usa, promovendo compreensão, confiança e evolução conjunta.
