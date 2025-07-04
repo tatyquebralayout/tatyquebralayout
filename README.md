@@ -35,10 +35,7 @@ Este GitHub é meu centro de documentação viva:
 - 👩‍🏫 **Embaixadora @ PrograMaria** — [Instagram](https://www.instagram.com/programaria/)  
 - 🧬 **Colunista @ Mídia Ninja** — [Leia meus contos](https://midianinja.org/author/tatianabarros/)  
 - 📩 **Criadora da newsletter _Algoritmo Mestre_** — [Leia no Substack](https://substack.com/@umataldetatiana)  
-  - A verdade nua e crua do mercado tech, sem bullshit corporativo.  
-  - 💡 Segunda a quinta: curadoria diária com impacto real em salários, tendências e decisões técnicas.  
-  - 📘 Sexta-feira: estudos de caso práticos para acelerar sua carreira e liderar a próxima onda do setor.
-
+  - A verdade do mercado tech, sem bullshit corporativo.  
 ---
 
 ## 🎥 Canal no YouTube: [Uma Tal de Tatiana](https://www.youtube.com/@umataldetatiana)
