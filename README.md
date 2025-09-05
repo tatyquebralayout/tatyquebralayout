@@ -1,25 +1,22 @@
-<!-- Visitor Badge -->
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=tatyquebralayout%2Fgithub-profile&countColor=%23263759)](https://visitorbadge.io/status?path=tatyquebralayout%2Fgithub-profile)
-![GitHub followers](https://img.shields.io/github/followers/tatyquebralayout?style=social)
-
-<!-- Typing Animation -->
+<!-- Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Technology+Evangelist+%7C+DevRel+%7C+Community+Leader;Fundadora+n8n-brasil+%7C+Co-fundadora+CodeStudyWithMe;Building+Developer+Communities+%7C+Creating+Learning+Paths" alt="Typing SVG" />
-</div>
-
-<!-- Banner -->
-<div align="center">
-  <a href="https://www.youtube.com/@umataldetatiana">
-    <img src="https://i.postimg.cc/nrNmVphW/Banner-Tatiana-Barros.png" alt="Banner Tatiana Barros" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-  </a>
+  
+  <!-- Visitor Badge -->
+  [![Visitors](https://api.visitorbadge.io/api/visitors?path=tatyquebralayout%2Ftatyquebralayout&countColor=%23263759)](https://visitorbadge.io/status?path=tatyquebralayout%2Ftatyquebralayout)
+  ![GitHub followers](https://img.shields.io/github/followers/tatyquebralayout?style=social&label=Followers)
+  
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Technology+Evangelist+%7C+DevRel+%7C+Community+Leader;Fundadora+n8n-brasil+%7C+Co-fundadora+CodeStudyWithMe;Building+Developer+Communities+%7C+Creating+Learning+Paths" alt="Typing SVG" />
+  
+   
 </div>
 
 # 👩‍💻 Tatiana Barros | Developer Relations | Educadora | Tech Evangelist
 
 <div align="center">
-  <img src="https://img.shields.io/badge/DevRel-Developer%20Relations-purple?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Technology%20Evangelist-ExpressoTS-blue?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Community%20Leader-4%20Organizations-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevRel-Developer%20Relations-purple?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Technology%20Evangelist-ExpressoTS-blue?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Community%20Leader-4%20Organizations-green?style=flat-square&logo=github&logoColor=white" />
 </div>
 
 ---
@@ -43,7 +40,7 @@ Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incl
 * 💭 **Ask me anything** sobre DevRel, comunidades e tecnologia!
 * 🔍 **Projetos** que lidero e contribuo
 * ⭐ **Repositórios** que curto e sigo
-* 
+
 
 ---
 
@@ -51,44 +48,59 @@ Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incl
 
 <div align="center">
 
-![ExpressoTS](https://img.shields.io/badge/ExpressoTS-Technology%20Evangelist-blue?style=for-the-badge&logo=typescript&logoColor=white)
-![n8n-brasil](https://img.shields.io/badge/n8n--brasil-Fundadora%20%26%20Co--fundadora-orange?style=for-the-badge&logo=n8n&logoColor=white)
-![CodeStudyWithMe](https://img.shields.io/badge/CodeStudyWithMe-Co--fundadora%20%26%20Líder-green?style=for-the-badge&logo=github&logoColor=white)
+![ExpressoTS](https://img.shields.io/badge/ExpressoTS-Technology%20Evangelist-blue?style=flat-square&logo=typescript&logoColor=white)
+![n8n-brasil](https://img.shields.io/badge/n8n--brasil-Co--fundadora%20Documentação%20PT--BR-orange?style=flat-square&logo=n8n&logoColor=white)
+![CodeStudyWithMe](https://img.shields.io/badge/CodeStudyWithMe-Fundadora%20%26%20Líder-green?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
-### ** Impacto nas Comunidades**
-- **2.381 links corrigidos** na documentação n8n
-- **+1.742 stars** no projeto ExpressoTS
-- **Comunidade ativa** de desenvolvedores
-- **Trilhas de aprendizado** baseadas em roadmap.sh
+### **🌟 Liderança Técnica**
+- **Technology Evangelist** no ExpressoTS Framework
+- **Co-fundadora** do Projeto Open Source Documentação pt-br n8n - não oficial
+- **Fundadora** do CodeStudyWithMe
+- **Contribuidora** em 4+ organizações ativas
+- **Criadora** de trilhas de aprendizado baseadas em roadmap.sh
 
 ---
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Stats & Métricas Reais**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tatyquebralayout&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatyquebralayout&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <!-- GitHub Stats Compact -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tatyquebralayout&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&hide_title=true&card_width=400" alt="GitHub Stats" />
+  
+
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Compact -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tatyquebralayout&theme=radical&hide_border=true&card_width=500" alt="GitHub Streak" />
+  
 </div>
 
 ---
 
-## ⏰ **Coding Time in the Last Month**
+## ⏰ **Coding Activity**
 
-<!-- WakaTime Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tatyquebralayout&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  
+  <!-- Activity Graph Compact -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatyquebralayout&theme=redical&hide_border=true&bg_color=0d1117&color=7c3aed&line=7c3aed&point=7c3aed&area=true&area_color=7c3aed&custom_title=Atividade%20de%20Desenvolvimento" alt="Activity Graph" />
+  
 </div>
 
-<!-- Coding Time com barras de progresso -->
 <div align="center">
 
-**TypeScript**    15 hrs 30 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.5 %
-**Markdown**      4 hrs 20 mins   🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.2 %
-**JavaScript**    2 hrs 45 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.1 %
-**Python**        1 hrs 15 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.0 %
-**CSS**           0 hrs 30 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.0 %
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
@@ -98,20 +110,20 @@ Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incl
 
 <div align="center">
 
-![DevRel](https://img.shields.io/badge/DevRel-Developer%20Relations-purple?style=for-the-badge&logo=github&logoColor=white)
-![Documentation](https://img.shields.io/badge/Documentation-Technical%20Writing-blue?style=for-the-badge&logo=gitbook&logoColor=white)
-![Community](https://img.shields.io/badge/Community-Leadership-green?style=for-the-badge&logo=github&logoColor=white)
-![Education](https://img.shields.io/badge/Education-Mentorship-orange?style=for-the-badge&logo=github&logoColor=white)
+![DevRel](https://img.shields.io/badge/DevRel-Developer%20Relations-purple?style=flat-square&logo=github&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-Technical%20Writing-blue?style=flat-square&logo=gitbook&logoColor=white)
+![Community](https://img.shields.io/badge/Community-Leadership-green?style=flat-square&logo=github&logoColor=white)
+![Education](https://img.shields.io/badge/Education-Mentorship-orange?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
-### ** Comunicação & Educação**
+### **Comunicação & Educação**
 - **Documentação técnica** - n8n, ExpressoTS
 - **Mentoria** - CodeStudyWithMe
 - **Tradução** - Português/Inglês
 - **Criação de conteúdo** - Tech writing
 
-### ** Liderança & Gestão**
+### **Liderança & Gestão**
 - **Fundação de organizações** - n8n-brasil, CodeStudyWithMe
 - **Evangelismo técnico** - ExpressoTS
 - **Gestão de comunidades** - +1000 membros
@@ -119,45 +131,44 @@ Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incl
 
 ---
 
-## 📝 **Latest Blog Posts**
+## ✨ **GitHub Achievements & Conquistas**
 
-* 2025-01-15 **DevRel Best Practices** - Como construir comunidades técnicas saudáveis
-* 2025-01-10 **ExpressoTS Update** - Novas funcionalidades e roadmap 2025
-* 2025-01-05 **n8n Documentation** - Melhorias na documentação em português
-* 2024-12-28 **CodeStudyWithMe** - Trilhas de aprendizado para desenvolvedores
-* 2024-12-20 **Neurodivergência na Tech** - Inclusão e acessibilidade no desenvolvimento
-
----
-
-## ✨ **My Followers**
-
-<!-- Seguidores reais da Tatiana -->
 <div align="center">
-
-| [ DevRel Expert ](https://github.com/devrel-expert) | [ Community Leader ](https://github.com/community-leader) | [ Tech Evangelist ](https://github.com/tech-evangelist) | [ Open Source ](https://github.com/open-source) |
-|-----------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------|
-| [ Developer ](https://github.com/developer) | [ Mentor ](https://github.com/mentor) | [ Writer ](https://github.com/writer) | [ Speaker ](https://github.com/speaker) |
-
+  
+  <!-- GitHub Trophies Compact -->
+  <img src="https://github-profile-trophy.vercel.app/?username=tatyquebralayout&theme=radical&no-frame=true&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  
 </div>
 
 ---
 
-## 🌟 **Projetos em Destaque**
+## 🌟 **Projetos em Destaque & Impacto Real**
 
-<div align="center">
+<div>
 
-### ** n8n-Doc-PT-BR**
-![n8n](https://img.shields.io/badge/n8n-Documentação%20PT--BR-orange?style=flat-square&logo=n8n&logoColor=white)
-- **Documentação oficial** em português
-- **2.381 links corrigidos**
+### **🚀 ExpressoTS Framework**
+[![ExpressoTS](https://img.shields.io/badge/ExpressoTS-Framework%20TypeScript-blue?style=flat-square&logo=typescript&logoColor=white)](https://github.com/expressots/expressots)
+- **Framework TypeScript** para APIs escaláveis
+- **+1.742 stars** no GitHub
+- **Technology Evangelist** ativa
+- **Comunidade global** de desenvolvedores
+- **Documentação completa** e exemplos práticos
+
+### **📚 n8n-Doc-PT-BR**
+[![n8n](https://img.shields.io/badge/n8n-Documentação%20PT--BR-orange?style=flat-square&logo=n8n&logoColor=white)](https://github.com/n8n-io/n8n-docs-pt-br)
+- **Projeto Open Source** de documentação em português brasileiro
+- **Co-fundadora** do projeto não oficial
+- **2.381 links corrigidos** e validados
 - **Comunidade ativa** de contribuidores
-- **Deploy automatizado** GitHub Pages
+- **Deploy automatizado** via GitHub Pages
+- **Impacto direto** na comunidade brasileira
 
-### ** CodeStudyWithMe**
-![CodeStudyWithMe](https://img.shields.io/badge/CodeStudyWithMe-Trilhas%20de%20Aprendizado-green?style=flat-square&logo=github&logoColor=white)
+### **🎓 CodeStudyWithMe**
+[![CodeStudyWithMe](https://img.shields.io/badge/CodeStudyWithMe-Trilhas%20de%20Aprendizado-green?style=flat-square&logo=github&logoColor=white)](https://github.com/CodeStudyWithMe)
+- **Fundadora** e líder do projeto
 - **Trilhas de aprendizado** baseadas em roadmap.sh
 - **Desafios de código** para comunidades
-- **Mentoria** de desenvolvedores
+- **Mentoria** de desenvolvedores iniciantes
 - **Framework de estudos** personalizado
 
 </div>
@@ -197,25 +208,67 @@ Um espaço interativo, leve e focado em crescimento compartilhado.
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/umataldetatiana)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--5574--2544-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5574-2544)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tatiquebralayout)
+### **Redes Sociais & Contato**
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/umataldetatiana)
+[![Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/umataldetatiana)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umataldetatiana)
+[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/umataldetatiana.bsky.social)
 
-[![GitBook](https://img.shields.io/static/v1?message=Documented%20on%20GitBook&logo=gitbook&logoColor=ffffff&label=%20&labelColor=5c5c5c&color=3F89A1)](https://www.gitbook.com/preview?utm_source=gitbook_readme_badge&utm_medium=organic&utm_campaign=preview_documentation&utm_content=link)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/umataldetatiana)
-[![Bluesky](https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/umataldetatiana.bsky.social)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umataldetatiana)
+### **Conteúdo & Streaming**
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@umataldetatiana)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://www.twitch.tv/umataldetatiana)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@umataldetatiana)
+
+### **Plataformas Técnicas**
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/tatiquebralayout)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--5574--2544-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-5574-2544)
 
 </div>
 
 ---
 
+## 📊 **Estatísticas do Perfil & Atividade**
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tatyquebralayout&style=for-the-badge&color=blue" alt="Profile Views" />
+  
+  <!-- Profile Views Compact -->
+  <img src="https://komarev.com/ghpvc/?username=tatyquebralayout&style=flat-square&color=blue" alt="Profile Views" />
+  
+  <!-- Snake Animation -->
+  <img src="https://github.com/tatyquebralayout/tatyquebralayout/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  
 </div>
 
 ---
 
+## 🔍 **Insights & Análise do Perfil**
+
+### **📊 Padrões de Contribuição**
+- **Atividade Consistente**: Padrão regular de commits e contribuições
+- **Diversidade Tecnológica**: TypeScript, Python, JavaScript, Markdown
+- **Liderança Técnica**: 4+ organizações com impacto mensurável
+- **Open Source**: Contribuições significativas para projetos da comunidade
+
+### **🎯 Especializações Identificadas**
+- **DevRel & Community Management**: Expertise comprovada
+- **Technical Writing**: 2.381 links corrigidos na documentação
+- **Framework Development**: Technology Evangelist no ExpressoTS
+- **Learning & Education**: Criadora de trilhas de aprendizado
+
+### **🚀 Impacto Mensurável**
+- **ExpressoTS**: +1.742 stars (crescimento orgânico)
+- **n8n-Doc-PT-BR**: 2.381 links corrigidos (projeto open source)
+- **CodeStudyWithMe**: Fundadora e líder (liderança)
+- **GitHub**: 100+ repositórios (ecossistema robusto)
+
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Se+você+chegou+até+aqui%2C+bem-vindo(a)+à+travessia;Que+este+espaço+te+inspire%2C+te+ajude+e%2C+quem+sabe%2C+te+provoke" alt="Typing SVG" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Se+você+chegou+até+aqui%2C+bem-vindo(a)+à+travessia;Que+este+espaço+te+inspire%2C+te+ajude+e%2C+quem+sabe%2C+te+provoke;Tecnologia+é+uma+linguagem+viva+de+inclusão+e+transformação" alt="Typing SVG" />
+  
+  ### 🌟 **Obrigada por visitar!**
+  
+  _Se este perfil te inspirou, considere dar uma ⭐ nos projetos que mais te interessaram._
+  
 </div>
