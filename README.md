@@ -2,7 +2,7 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=tatyquebralayout%2Fgithub-profile&countColor=%23263759)](https://visitorbadge.io/status?path=tatyquebralayout%2Fgithub-profile)
 ![GitHub followers](https://img.shields.io/github/followers/tatyquebralayout?style=social)
 
-<!-- Typing Animation -->
+<!-- Typing Animation - CORRIGIDA -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Technology+Evangelist+%7C+DevRel+%7C+Community+Leader;Fundadora+n8n-brasil+%7C+Co-fundadora+CodeStudyWithMe;Building+Developer+Communities+%7C+Creating+Learning+Paths" alt="Typing SVG" />
 </div>
@@ -32,7 +32,7 @@ Sou uma mulher neurodivergente (autista e TDAH). Transformo minhas diferenças e
 
 Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incluir, facilitar e transformar**. Cada linha de código que escrevo — e cada conversa que provoco — carrega essa intenção.
 
-<!-- Separador com contribuições -->
+<!-- Separador com contribuições - CORRIGIDA -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/tatyquebralayout/tatyquebralayout/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
@@ -53,7 +53,7 @@ Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incl
 - **Comunidade ativa** de desenvolvedores
 - **Trilhas de aprendizado** baseadas em roadmap.sh
 
-<!-- Separador com estatísticas -->
+<!-- Separador com estatísticas - CORRIGIDA -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tatyquebralayout&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
@@ -69,7 +69,7 @@ Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incl
 
 </div>
 
-<!-- Separador com atividade -->
+<!-- Separador com atividade - CORRIGIDA -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatyquebralayout&theme=radical&hide_border=true" alt="Activity Graph" />
 </div>
@@ -97,9 +97,9 @@ Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incl
 - **Gestão de comunidades** - +1000 membros
 - **Estratégia de conteúdo** - Roadmap.sh integration
 
-<!-- Separador personalizado -->
+<!-- Separador personalizado - SUBSTITUÍDO POR LINHA -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tatyquebralayout/tatyquebralayout/main/images/separator.png" alt="Separator" />
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/header.png" alt="Separator" />
 </div>
 
 ## **PROJETOS EM DESTAQUE**
@@ -122,9 +122,9 @@ Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incl
 
 </div>
 
-<!-- Separador com gradiente -->
+<!-- Separador com gradiente - SUBSTITUÍDO POR LINHA -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tatyquebralayout/tatyquebralayout/main/images/gradient-separator.png" alt="Gradient Separator" />
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/footer.png" alt="Gradient Separator" />
 </div>
 
 ## 📚 **Sobre este repositório**
@@ -154,9 +154,9 @@ Tecnologia, neurodivergência, ficção científica e metodologias de aprendizad
 Lives de co-estudo, desenvolvimento de projetos open source, conversas sobre carreira tech e criatividade.  
 Um espaço interativo, leve e focado em crescimento compartilhado.
 
-<!-- Separador final -->
+<!-- Separador final - SUBSTITUÍDO POR LINHA -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tatyquebralayout/tatyquebralayout/main/images/footer.png" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/footer.png" alt="Footer" />
 </div>
 
 ## 🌐 **Onde me encontrar**
