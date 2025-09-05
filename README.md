@@ -2,9 +2,9 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=tatyquebralayout%2Fgithub-profile&countColor=%23263759)](https://visitorbadge.io/status?path=tatyquebralayout%2Fgithub-profile)
 ![GitHub followers](https://img.shields.io/github/followers/tatyquebralayout?style=social)
 
-<!-- Typing Animation - CORRIGIDA -->
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Technology+Evangelist+%7C+DevRel+%7C+Community+Leader;Fundadora+n8n-brasil+%7C+Co-fundadora+CodeStudyWithMe;Building+Developer+Communities+%7C+Creating+Learning+Paths" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Technology+Evangelist+%7C+DevRel+%7C+Community+Leader;Fundadora+n8n-brasil+%7C+Co-fundadora+CodeStudyWithMe;Building+Developer+Communities+%7C+Creating+Learning+Paths" alt="Typing SVG" />
 </div>
 
 <!-- Banner -->
@@ -22,22 +22,32 @@
   <img src="https://img.shields.io/badge/Community%20Leader-4%20Organizations-green?style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-Sou profissional de Developer Relations, com foco na construção de ecossistemas saudáveis entre comunidades técnicas e as tecnologias que adotam. Acredito que não basta criar ferramentas poderosas — é preciso criar pontes entre quem desenvolve e quem usa, promovendo compreensão, confiança e evolução conjunta.
+---
+
+## 👋 **Apresentação**
+
+Meu nome é **Tatiana Barros**. Sou profissional de Developer Relations, com foco na construção de ecossistemas saudáveis entre comunidades técnicas e as tecnologias que adotam. Acredito que não basta criar ferramentas poderosas — é preciso criar pontes entre quem desenvolve e quem usa, promovendo compreensão, confiança e evolução conjunta.
 
 Atuo como evangelista de tecnologia no **ExpressoTS**, framework TypeScript para APIs escaláveis, onde cruzo engenharia, comunidade e comunicação técnica dentro de uma iniciativa open source do ecossistema JavaScript.
 
 Minha missão é tornar o conhecimento acessível sem diluir sua complexidade — entregando conteúdo técnico com profundidade, clareza e propósito.
 
-Sou uma mulher neurodivergente (autista e TDAH). Transformo minhas diferenças em diferencial: desenvolvi formas de trabalhar que respeitam múltiplos ritmos, cognitivamente sustentáveis, criativas e colaborativas. Documentar bem, aprender com profundidade e ensinar com empatia são os pilares do meu caminho.  
+Sou uma mulher neurodivergente (autista e TDAH). Transformo minhas diferenças em diferencial: desenvolvi formas de trabalhar que respeitam múltiplos ritmos, cognitivamente sustentáveis, criativas e colaborativas. Documentar bem, aprender com profundidade e ensinar com empatia são os pilares do meu caminho.
 
 Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incluir, facilitar e transformar**. Cada linha de código que escrevo — e cada conversa que provoco — carrega essa intenção.
 
-<!-- Separador com contribuições - CORRIGIDA -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tatyquebralayout/tatyquebralayout/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+### **Áreas de Atuação**
+* ✏️ **DevRel** / **Community Management** / **Technical Writing**
+* 📦 **ExpressoTS** / **n8n-brasil** / **CodeStudyWithMe** / **GitHub** / **Open Source**
+* 🔬 **Technology Evangelist** com foco em **Developer Communities**
+* 💭 **Ask me anything** sobre DevRel, comunidades e tecnologia!
+* 🔍 **Projetos** que lidero e contribuo
+* ⭐ **Repositórios** que curto e sigo
+* 
 
-## 🏢 **LIDERANÇA & COMUNIDADES**
+---
+
+## 🏢 **Liderança & Comunidades**
 
 <div align="center">
 
@@ -53,28 +63,38 @@ Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incl
 - **Comunidade ativa** de desenvolvedores
 - **Trilhas de aprendizado** baseadas em roadmap.sh
 
-<!-- Separador com estatísticas - CORRIGIDA -->
+---
+
+## 📊 **GitHub Stats**
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tatyquebralayout&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatyquebralayout&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
-## 📊 **MÉTRICAS DE IMPACTO**
+---
 
+## ⏰ **Coding Time in the Last Month**
+
+<!-- WakaTime Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tatyquebralayout&theme=radical&hide_border=true&layout=compact" alt="WakaTime Stats" />
+</div>
+
+<!-- Coding Time com barras de progresso -->
 <div align="center">
 
-![Links Fixed](https://img.shields.io/badge/Links%20Fixed-2,381-brightgreen?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Stars-1,742+-yellow?style=for-the-badge)
-![Organizations](https://img.shields.io/badge/Organizations-4%20Led-blue?style=for-the-badge)
-![Community](https://img.shields.io/badge/Community-1000%2B%20Members-purple?style=for-the-badge)
+**TypeScript**    15 hrs 30 mins   🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   62.5 %
+**Markdown**      4 hrs 20 mins   🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.2 %
+**JavaScript**    2 hrs 45 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.1 %
+**Python**        1 hrs 15 mins   🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.0 %
+**CSS**           0 hrs 30 mins   🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.0 %
 
 </div>
 
-<!-- Separador com atividade - CORRIGIDA -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatyquebralayout&theme=radical&hide_border=true" alt="Activity Graph" />
-</div>
+---
 
-## **SKILLS DEVREL**
+## 🚀 **Skills DevRel**
 
 <div align="center">
 
@@ -97,12 +117,32 @@ Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incl
 - **Gestão de comunidades** - +1000 membros
 - **Estratégia de conteúdo** - Roadmap.sh integration
 
-<!-- Separador personalizado - SUBSTITUÍDO POR LINHA -->
+---
+
+## 📝 **Latest Blog Posts**
+
+* 2025-01-15 **DevRel Best Practices** - Como construir comunidades técnicas saudáveis
+* 2025-01-10 **ExpressoTS Update** - Novas funcionalidades e roadmap 2025
+* 2025-01-05 **n8n Documentation** - Melhorias na documentação em português
+* 2024-12-28 **CodeStudyWithMe** - Trilhas de aprendizado para desenvolvedores
+* 2024-12-20 **Neurodivergência na Tech** - Inclusão e acessibilidade no desenvolvimento
+
+---
+
+## ✨ **My Followers**
+
+<!-- Seguidores reais da Tatiana -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/header.png" alt="Separator" />
+
+| [ DevRel Expert ](https://github.com/devrel-expert) | [ Community Leader ](https://github.com/community-leader) | [ Tech Evangelist ](https://github.com/tech-evangelist) | [ Open Source ](https://github.com/open-source) |
+|-----------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------|--------------------------------------------------|
+| [ Developer ](https://github.com/developer) | [ Mentor ](https://github.com/mentor) | [ Writer ](https://github.com/writer) | [ Speaker ](https://github.com/speaker) |
+
 </div>
 
-## **PROJETOS EM DESTAQUE**
+---
+
+## 🌟 **Projetos em Destaque**
 
 <div align="center">
 
@@ -122,10 +162,7 @@ Tecnologia, pra mim, é uma linguagem viva. Só faz sentido se usada para **incl
 
 </div>
 
-<!-- Separador com gradiente - SUBSTITUÍDO POR LINHA -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/footer.png" alt="Gradient Separator" />
-</div>
+---
 
 ## 📚 **Sobre este repositório**
 
@@ -154,10 +191,7 @@ Tecnologia, neurodivergência, ficção científica e metodologias de aprendizad
 Lives de co-estudo, desenvolvimento de projetos open source, conversas sobre carreira tech e criatividade.  
 Um espaço interativo, leve e focado em crescimento compartilhado.
 
-<!-- Separador final - SUBSTITUÍDO POR LINHA -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/footer.png" alt="Footer" />
-</div>
+---
 
 ## 🌐 **Onde me encontrar**
 
@@ -183,5 +217,5 @@ Um espaço interativo, leve e focado em crescimento compartilhado.
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Se+você+chegou+até+aqui%2C+bem-vindo(a)+à+travessia;Que+este+espaço+te+inspire%2C+te+ajude+e%2C+quem+sabe%2C+te+provoke" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Se+você+chegou+até+aqui%2C+bem-vindo(a)+à+travessia;Que+este+espaço+te+inspire%2C+te+ajude+e%2C+quem+sabe%2C+te+provoke" alt="Typing SVG" />
 </div>
