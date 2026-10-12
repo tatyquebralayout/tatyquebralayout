@@ -7,9 +7,9 @@
 > Prévia montada a partir da proposta de temas; as tags ainda não estão nos repositórios.
 > Preview built from the theme proposal; the tags are not on the repositories yet.
 
-Os 150 forks de [tatyquebralayout](https://github.com/tatyquebralayout), separados pelos tópicos `tema-*` de cada repositório. Um fork com dois temas aparece nas duas seções.
+Projetos de outras pessoas que eu copiei para estudar, testar ou trabalhar em cima, organizados por tema. A maioria ainda está do jeito que veio do original. Esta página se atualiza sozinha toda semana a partir das tags de cada fork.
 
-The 150 forks of [tatyquebralayout](https://github.com/tatyquebralayout), grouped by each repository's `tema-*` topics. A fork with two themes shows up in both sections.
+*Other people's projects I forked to study, test or build on, grouped by theme. Most are still as they came from the original. This page updates itself every week from each fork's tags.*
 
 | Seção · Section | Forks |
 |---|---:|
@@ -30,10 +30,11 @@ The 150 forks of [tatyquebralayout](https://github.com/tatyquebralayout), groupe
 
 ## Projetos para adotar · Projects to adopt (6)
 
-<!-- selo / badge: badges/status-original-arquivado.svg (Motion Designer) -->
+<img src="badges/status-original-arquivado.svg" height="28" alt="Projetos para adotar · Projects to adopt">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+O dono original arquivou estes projetos, e eles não recebem mais atualização. São candidatos para eu retomar, adaptar ou usar como ponto de partida.
+
+*The original owners archived these projects. They're candidates for me to pick up, adapt or build on.*
 
 - **[courses_claude](https://github.com/tatyquebralayout/courses_claude)** · original: [anthropics/courses](https://github.com/anthropics/courses) · Anthropic's educational courses · `Jupyter Notebook` _(tema · theme: [Cursos e estudos](#tema-estudos), [IA](#tema-ia))_
 - **[flis.horizon-scanning-tool](https://github.com/tatyquebralayout/flis.horizon-scanning-tool)** · original: [eea/flis.horizon-scanning-tool](https://github.com/eea/flis.horizon-scanning-tool) · Horizon Scanning Tool for FLIS · `Python` _(tema · theme: [Estudos de futuro](#tema-futuros))_
@@ -46,10 +47,11 @@ _Introdução em breve · Intro coming soon._
 
 ## IA · AI (37)
 
-<!-- selo / badge: badges/tema-ia.svg (Motion Designer) -->
+<img src="badges/tema-ia.svg" height="28" alt="IA · AI">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+Agentes, modelos de linguagem, servidores MCP e skills.
+
+*Agents, language models, MCP servers and skills.*
 
 - **[agent-skills](https://github.com/tatyquebralayout/agent-skills)** · original: [tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills) · The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with… · `TypeScript`
 - **[AgentBench](https://github.com/tatyquebralayout/AgentBench)** · original: [THUDM/AgentBench](https://github.com/THUDM/AgentBench) · A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24) · `Python`
@@ -93,10 +95,11 @@ _Introdução em breve · Intro coming soon._
 
 ## Dados · Data (28)
 
-<!-- selo / badge: badges/tema-dados.svg (Motion Designer) -->
+<img src="badges/tema-dados.svg" height="28" alt="Dados · Data">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+Dados abertos, mapas, geoprocessamento e visualização.
+
+*Open data, maps, GIS and visualization.*
 
 - **[api-dicionario-ptbr](https://github.com/tatyquebralayout/api-dicionario-ptbr)** · original: [atrikx/api-dicionario-ptbr](https://github.com/atrikx/api-dicionario-ptbr) · API dicio br, API dicionario pt-br, API dicionario português brasil, REST API de dicionário em português do Brasil / REST API to search… · `Python` _(também em · also in [Programação em português](#tema-portugues))_
 - **[Astrologer-API](https://github.com/tatyquebralayout/Astrologer-API)** · original: [g-battaglia/Astrologer-API](https://github.com/g-battaglia/Astrologer-API) · High-precision Astrology API powered by the Kerykeion engine. Natal charts, synastry, transits, composites, returns, and moon phases as… · `Python` _(em dúvida · to review)_
@@ -131,10 +134,11 @@ _Introdução em breve · Intro coming soon._
 
 ## Perfil do GitHub · GitHub profile (26)
 
-<!-- selo / badge: badges/tema-perfil-github.svg (Motion Designer) -->
+<img src="badges/tema-perfil-github.svg" height="28" alt="Perfil do GitHub · GitHub profile">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+Exemplos de README de perfil que serviram de referência para o meu.
+
+*Profile README examples that inspired mine.*
 
 - **[aralroca](https://github.com/tatyquebralayout/aralroca)** · original: [aralroca/aralroca](https://github.com/aralroca/aralroca) · My GitHub profile · `Rust`
 - **[athul](https://github.com/tatyquebralayout/athul)** · original: [athul/athul](https://github.com/athul/athul) · May the Force be with you :sparkles:
@@ -167,10 +171,11 @@ _Introdução em breve · Intro coming soon._
 
 ## Código criativo · Creative code (20)
 
-<!-- selo / badge: badges/tema-creative-code.svg (Motion Designer) -->
+<img src="badges/tema-creative-code.svg" height="28" alt="Código criativo · Creative code">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+Arte generativa, animação e 3D.
+
+*Generative art, animation and 3D.*
 
 - **[anime](https://github.com/tatyquebralayout/anime)** · original: [juliangarnier/anime](https://github.com/juliangarnier/anime) · JavaScript animation engine · `JavaScript` _(também em · also in [Experiências web](#tema-web))_
 - **[aseprite](https://github.com/tatyquebralayout/aseprite)** · original: [aseprite/aseprite](https://github.com/aseprite/aseprite) · Animated sprite editor & pixel art tool (Windows, macOS, Linux) · `C++`
@@ -197,10 +202,11 @@ _Introdução em breve · Intro coming soon._
 
 ## Experiências web · Web experiences (19)
 
-<!-- selo / badge: badges/tema-web.svg (Motion Designer) -->
+<img src="badges/tema-web.svg" height="28" alt="Experiências web · Web experiences">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+Bibliotecas e efeitos para sites.
+
+*Libraries and effects for websites.*
 
 - **[anime](https://github.com/tatyquebralayout/anime)** · original: [juliangarnier/anime](https://github.com/juliangarnier/anime) · JavaScript animation engine · `JavaScript` _(também em · also in [Código criativo](#tema-creative-code))_
 - **[cesium](https://github.com/tatyquebralayout/cesium)** · original: [CesiumGS/cesium](https://github.com/CesiumGS/cesium) · An open-source JavaScript library for world-class 3D globes and maps :earth\_americas: · `JavaScript` _(também em · also in [Dados](#tema-dados))_
@@ -226,10 +232,11 @@ _Introdução em breve · Intro coming soon._
 
 ## Documentação e notas · Docs and notes (17)
 
-<!-- selo / badge: badges/tema-docs.svg (Motion Designer) -->
+<img src="badges/tema-docs.svg" height="28" alt="Documentação e notas · Docs and notes">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+Documentação, Markdown, Obsidian e Notion.
+
+*Documentation, Markdown, Obsidian and Notion.*
 
 - **[agents.md](https://github.com/tatyquebralayout/agents.md)** · original: [agentsmd/agents.md](https://github.com/agentsmd/agents.md) · AGENTS.md — a simple, open format for guiding coding agents · `TypeScript` _(também em · also in [IA](#tema-ia))_
 - **[context7](https://github.com/tatyquebralayout/context7)** · original: [upstash/context7](https://github.com/upstash/context7) · Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors · `TypeScript` _(também em · also in [IA](#tema-ia))_
@@ -253,10 +260,11 @@ _Introdução em breve · Intro coming soon._
 
 ## Estudos de futuro · Futures studies (16)
 
-<!-- selo / badge: badges/tema-futuros.svg (Motion Designer) -->
+<img src="badges/tema-futuros.svg" height="28" alt="Estudos de futuro · Futures studies">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+Horizon scanning, previsão e simulação.
+
+*Horizon scanning, forecasting and simulation.*
 
 - **[ai-horizon-scanning-prototype](https://github.com/tatyquebralayout/ai-horizon-scanning-prototype)** · original: [Paralogosai/ai-horizon-scanning-prototype](https://github.com/Paralogosai/ai-horizon-scanning-prototype) · Radar de sinais de políticas públicas com NLP (lido no README, sem descrição) · `Python` _(também em · also in [IA](#tema-ia))_
 - **[darts](https://github.com/tatyquebralayout/darts)** · original: [unit8co/darts](https://github.com/unit8co/darts) · A python library for user-friendly forecasting and anomaly detection on time series. · `Python` _(também em · also in [Dados](#tema-dados))_
@@ -279,10 +287,11 @@ _Introdução em breve · Intro coming soon._
 
 ## Cursos e estudos · Learning (10)
 
-<!-- selo / badge: badges/tema-estudos.svg (Motion Designer) -->
+<img src="badges/tema-estudos.svg" height="28" alt="Cursos e estudos · Learning">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+Cursos e materiais para aprender.
+
+*Courses and learning materials.*
 
 - **[awesome-creative-coding](https://github.com/tatyquebralayout/awesome-creative-coding)** · original: [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) · Creative Coding: Generative Art, Data visualization, Interaction Design, Resources. · `HTML` _(também em · also in [Código criativo](#tema-creative-code))_
 - **[ciencia-da-computacao](https://github.com/tatyquebralayout/ciencia-da-computacao)** · original: [Universidade-Livre/ciencia-da-computacao](https://github.com/Universidade-Livre/ciencia-da-computacao) · 🎓 Um caminho para a educação autodidata em Ciência da Computação!
@@ -299,10 +308,11 @@ _Introdução em breve · Intro coming soon._
 
 ## Automação · Automation (8)
 
-<!-- selo / badge: badges/tema-automacao.svg (Motion Designer) -->
+<img src="badges/tema-automacao.svg" height="28" alt="Automação · Automation">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+n8n e automações para WhatsApp e Instagram.
+
+*n8n and automations for WhatsApp and Instagram.*
 
 - **[instagrapi](https://github.com/tatyquebralayout/instagrapi)** · original: [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) · 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS · `Python`
 - **[instaloader](https://github.com/tatyquebralayout/instaloader)** · original: [instaloader/instaloader](https://github.com/instaloader/instaloader) · Download pictures (or videos) along with their captions and other metadata from Instagram. · `Python`
@@ -317,10 +327,11 @@ _Introdução em breve · Intro coming soon._
 
 ## Ferramentas · Tools (7)
 
-<!-- selo / badge: badges/tema-ferramentas.svg (Motion Designer) -->
+<img src="badges/tema-ferramentas.svg" height="28" alt="Ferramentas · Tools">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+Editores, gestão e utilitários.
+
+*Editors, project management and utilities.*
 
 - **[hydra](https://github.com/tatyquebralayout/hydra)** · original: [hydralauncher/hydra](https://github.com/hydralauncher/hydra) · Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper. · `TypeScript` _(em dúvida · to review)_
 - **[markdownlint](https://github.com/tatyquebralayout/markdownlint)** · original: [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) · A Node.js style checker and lint tool for Markdown/CommonMark files. · `JavaScript` _(também em · also in [Documentação e notas](#tema-docs))_
@@ -334,10 +345,11 @@ _Introdução em breve · Intro coming soon._
 
 ## Programação em português · Programming in Portuguese (7)
 
-<!-- selo / badge: badges/tema-portugues.svg (Motion Designer) -->
+<img src="badges/tema-portugues.svg" height="28" alt="Programação em português · Programming in Portuguese">
 
-<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->
-_Introdução em breve · Intro coming soon._
+Materiais e projetos de programação escritos em português.
+
+*Programming materials and projects written in Portuguese.*
 
 - **[api-dicionario-ptbr](https://github.com/tatyquebralayout/api-dicionario-ptbr)** · original: [atrikx/api-dicionario-ptbr](https://github.com/atrikx/api-dicionario-ptbr) · API dicio br, API dicionario pt-br, API dicionario português brasil, REST API de dicionário em português do Brasil / REST API to search… · `Python` _(também em · also in [Dados](#tema-dados))_
 - **[delegua](https://github.com/tatyquebralayout/delegua)** · original: [DesignLiquido/delegua](https://github.com/DesignLiquido/delegua) · Linguagem de programação 100% em português baseada em TypeScript, independente de sistema operacional e dispositivo, e suporte a múltiplos… · `TypeScript`

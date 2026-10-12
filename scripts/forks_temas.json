@@ -1,30 +1,97 @@
 {
-  "_sobre": "Nomes, introduções e selos de cada tema da página FORKS.md. Edite aqui (não no FORKS.md, que é regerado toda semana). intro_pt/intro_en: texto do Tech Writer. selo: caminho do SVG do Motion Designer; enquanto o arquivo não existir, a página mostra só um comentário no lugar.",
+  "_sobre": "Nomes, introduções e selos de cada tema da página FORKS.md. Edite aqui (não no FORKS.md, que é regerado toda semana). intro_pt/intro_en: texto do Tech Writer. selo: caminho do SVG do Motion Designer; enquanto o arquivo não existir, a página mostra só um comentário no lugar. abertura: texto de abertura da página (Markdown), mostrado logo abaixo do título.",
+  "abertura": "Projetos de outras pessoas que eu copiei para estudar, testar ou trabalhar em cima, organizados por tema. A maioria ainda está do jeito que veio do original. Esta página se atualiza sozinha toda semana a partir das tags de cada fork.\n\n*Other people's projects I forked to study, test or build on, grouped by theme. Most are still as they came from the original. This page updates itself every week from each fork's tags.*",
   "adotar": {
     "topic": "status-original-arquivado",
     "titulo_pt": "Projetos para adotar",
     "titulo_en": "Projects to adopt",
-    "intro_pt": "",
-    "intro_en": "",
+    "intro_pt": "O dono original arquivou estes projetos, e eles não recebem mais atualização. São candidatos para eu retomar, adaptar ou usar como ponto de partida.",
+    "intro_en": "The original owners archived these projects. They're candidates for me to pick up, adapt or build on.",
     "selo": "badges/status-original-arquivado.svg"
   },
   "sem_tema": {
     "titulo_pt": "Sem tema ainda",
     "titulo_en": "No theme yet",
-    "intro_pt": "",
-    "intro_en": ""
+    "intro_pt": "Forks que ainda não ganharam tag de tema.",
+    "intro_en": "Forks that don't have a theme tag yet."
   },
   "temas": {
-    "tema-ia": {"titulo_pt": "IA", "titulo_en": "AI", "intro_pt": "", "intro_en": "", "selo": "badges/tema-ia.svg"},
-    "tema-dados": {"titulo_pt": "Dados", "titulo_en": "Data", "intro_pt": "", "intro_en": "", "selo": "badges/tema-dados.svg"},
-    "tema-perfil-github": {"titulo_pt": "Perfil do GitHub", "titulo_en": "GitHub profile", "intro_pt": "", "intro_en": "", "selo": "badges/tema-perfil-github.svg"},
-    "tema-creative-code": {"titulo_pt": "Código criativo", "titulo_en": "Creative code", "intro_pt": "", "intro_en": "", "selo": "badges/tema-creative-code.svg"},
-    "tema-web": {"titulo_pt": "Experiências web", "titulo_en": "Web experiences", "intro_pt": "", "intro_en": "", "selo": "badges/tema-web.svg"},
-    "tema-docs": {"titulo_pt": "Documentação e notas", "titulo_en": "Docs and notes", "intro_pt": "", "intro_en": "", "selo": "badges/tema-docs.svg"},
-    "tema-futuros": {"titulo_pt": "Estudos de futuro", "titulo_en": "Futures studies", "intro_pt": "", "intro_en": "", "selo": "badges/tema-futuros.svg"},
-    "tema-estudos": {"titulo_pt": "Cursos e estudos", "titulo_en": "Learning", "intro_pt": "", "intro_en": "", "selo": "badges/tema-estudos.svg"},
-    "tema-automacao": {"titulo_pt": "Automação", "titulo_en": "Automation", "intro_pt": "", "intro_en": "", "selo": "badges/tema-automacao.svg"},
-    "tema-ferramentas": {"titulo_pt": "Ferramentas", "titulo_en": "Tools", "intro_pt": "", "intro_en": "", "selo": "badges/tema-ferramentas.svg"},
-    "tema-portugues": {"titulo_pt": "Programação em português", "titulo_en": "Programming in Portuguese", "intro_pt": "", "intro_en": "", "selo": "badges/tema-portugues.svg"}
+    "tema-ia": {
+      "titulo_pt": "IA",
+      "titulo_en": "AI",
+      "intro_pt": "Agentes, modelos de linguagem, servidores MCP e skills.",
+      "intro_en": "Agents, language models, MCP servers and skills.",
+      "selo": "badges/tema-ia.svg"
+    },
+    "tema-dados": {
+      "titulo_pt": "Dados",
+      "titulo_en": "Data",
+      "intro_pt": "Dados abertos, mapas, geoprocessamento e visualização.",
+      "intro_en": "Open data, maps, GIS and visualization.",
+      "selo": "badges/tema-dados.svg"
+    },
+    "tema-perfil-github": {
+      "titulo_pt": "Perfil do GitHub",
+      "titulo_en": "GitHub profile",
+      "intro_pt": "Exemplos de README de perfil que serviram de referência para o meu.",
+      "intro_en": "Profile README examples that inspired mine.",
+      "selo": "badges/tema-perfil-github.svg"
+    },
+    "tema-creative-code": {
+      "titulo_pt": "Código criativo",
+      "titulo_en": "Creative code",
+      "intro_pt": "Arte generativa, animação e 3D.",
+      "intro_en": "Generative art, animation and 3D.",
+      "selo": "badges/tema-creative-code.svg"
+    },
+    "tema-web": {
+      "titulo_pt": "Experiências web",
+      "titulo_en": "Web experiences",
+      "intro_pt": "Bibliotecas e efeitos para sites.",
+      "intro_en": "Libraries and effects for websites.",
+      "selo": "badges/tema-web.svg"
+    },
+    "tema-docs": {
+      "titulo_pt": "Documentação e notas",
+      "titulo_en": "Docs and notes",
+      "intro_pt": "Documentação, Markdown, Obsidian e Notion.",
+      "intro_en": "Documentation, Markdown, Obsidian and Notion.",
+      "selo": "badges/tema-docs.svg"
+    },
+    "tema-futuros": {
+      "titulo_pt": "Estudos de futuro",
+      "titulo_en": "Futures studies",
+      "intro_pt": "Horizon scanning, previsão e simulação.",
+      "intro_en": "Horizon scanning, forecasting and simulation.",
+      "selo": "badges/tema-futuros.svg"
+    },
+    "tema-estudos": {
+      "titulo_pt": "Cursos e estudos",
+      "titulo_en": "Learning",
+      "intro_pt": "Cursos e materiais para aprender.",
+      "intro_en": "Courses and learning materials.",
+      "selo": "badges/tema-estudos.svg"
+    },
+    "tema-automacao": {
+      "titulo_pt": "Automação",
+      "titulo_en": "Automation",
+      "intro_pt": "n8n e automações para WhatsApp e Instagram.",
+      "intro_en": "n8n and automations for WhatsApp and Instagram.",
+      "selo": "badges/tema-automacao.svg"
+    },
+    "tema-ferramentas": {
+      "titulo_pt": "Ferramentas",
+      "titulo_en": "Tools",
+      "intro_pt": "Editores, gestão e utilitários.",
+      "intro_en": "Editors, project management and utilities.",
+      "selo": "badges/tema-ferramentas.svg"
+    },
+    "tema-portugues": {
+      "titulo_pt": "Programação em português",
+      "titulo_en": "Programming in Portuguese",
+      "intro_pt": "Materiais e projetos de programação escritos em português.",
+      "intro_en": "Programming materials and projects written in Portuguese.",
+      "selo": "badges/tema-portugues.svg"
+    }
   }
 }

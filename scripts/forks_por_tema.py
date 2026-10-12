@@ -173,12 +173,15 @@ def bloco_secao(ancora: str, titulo: str, n: int, info: dict, nome_selo: str, li
     out = [f'<a id="{ancora}"></a>', "", f"## {titulo} ({n})", ""]
     selo = info.get("selo")
     if selo and (RAIZ / selo).exists():
-        out += [f'<img src="{selo}" height="24" alt="{nome_selo}">', ""]
+        out += [f'<img src="{selo}" height="28" alt="{nome_selo}">', ""]
     elif selo:
         out += [f"<!-- selo / badge: {selo} (Motion Designer) -->", ""]
     intro_pt, intro_en = info.get("intro_pt", "").strip(), info.get("intro_en", "").strip()
     if intro_pt or intro_en:
-        out += [p for p in (intro_pt, intro_en) if p for p in (p, "")]
+        if intro_pt:
+            out += [intro_pt, ""]
+        if intro_en:  # inglês em itálico, como nos textos do perfil
+            out += [intro_en if intro_en.startswith(("*", "_")) else f"*{intro_en}*", ""]
     else:
         out += ["<!-- intro: texto do Tech Writer em scripts/forks_temas.json / Tech Writer intro goes in scripts/forks_temas.json -->",
                 "_Introdução em breve · Intro coming soon._", ""]
@@ -231,10 +234,14 @@ def gerar(forks: list[Fork], cfg: dict, user: str, previa: bool) -> str:
         md += ["> [!NOTE]",
                "> Prévia montada a partir da proposta de temas; as tags ainda não estão nos repositórios.",
                "> Preview built from the theme proposal; the tags are not on the repositories yet.", ""]
-    md += [f"Os {len(forks)} forks de [{user}](https://github.com/{user}), separados pelos tópicos `{PREFIXO_TEMA}*` "
-           "de cada repositório. Um fork com dois temas aparece nas duas seções.", "",
-           f"The {len(forks)} forks of [{user}](https://github.com/{user}), grouped by each repository's "
-           f"`{PREFIXO_TEMA}*` topics. A fork with two themes shows up in both sections.", ""]
+    abertura = (cfg.get("abertura") or "").strip()
+    if abertura:
+        md += [abertura, ""]
+    else:
+        md += [f"Os {len(forks)} forks de [{user}](https://github.com/{user}), separados pelos tópicos `{PREFIXO_TEMA}*` "
+               "de cada repositório. Um fork com dois temas aparece nas duas seções.", "",
+               f"*The {len(forks)} forks of [{user}](https://github.com/{user}), grouped by each repository's "
+               f"`{PREFIXO_TEMA}*` topics. A fork with two themes shows up in both sections.*", ""]
 
     # Índice
     md += ["| Seção · Section | Forks |", "|---|---:|"]
