@@ -1,0 +1,41 @@
+name: Forks por tema
+
+# Toda segunda às 09:37 UTC (06:37 em Brasília) e quando rodar à mão.
+# Every Monday at 09:37 UTC, plus manual runs.
+on:
+  schedule:
+    - cron: "37 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: forks-por-tema
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      # O script só usa a biblioteca padrão; o Python do runner basta.
+      - name: Gerar FORKS.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/forks_por_tema.py --user "${{ github.repository_owner }}"
+
+      - name: Commitar se mudou
+        run: |
+          if git diff --quiet -- FORKS.md && git ls-files --error-unmatch FORKS.md >/dev/null 2>&1; then
+            echo "FORKS.md sem mudanças."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add FORKS.md
+          git commit -m "Atualiza FORKS.md"
+          git pull --rebase
+          git push
