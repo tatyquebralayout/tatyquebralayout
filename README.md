@@ -83,6 +83,10 @@ Live co-study sessions, open source projects built on the spot, and conversation
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tatyquebralayout/tatyquebralayout/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo o gráfico de contribuições · Snake eating the contribution graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tatyquebralayout/tatyquebralayout/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tatyquebralayout/tatyquebralayout/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man comendo o gráfico de contribuições de Tatiana Barros · Pac-Man eating Tatiana Barros's contribution graph" src="https://raw.githubusercontent.com/tatyquebralayout/tatyquebralayout/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
