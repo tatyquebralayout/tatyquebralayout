@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=7C3AED&center=true&vCenter=true&width=600&lines=Creative+code+%C2%B7+Dados+p%C3%BAblicos+%C2%B7+Experi%C3%AAncias;Creative+code+%C2%B7+Open+data+%C2%B7+Experiences" alt="Creative code · Dados públicos · Experiências" />
+<img src="dibarros-animated.webp" width="240" alt="Retrato em preto e branco de Tatiana Barros com uma pincelada preta sobre os olhos · Black and white portrait of Tatiana Barros with a black brushstroke across her eyes" />
 
 # Tatiana Barros
 
