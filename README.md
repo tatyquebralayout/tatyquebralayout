@@ -7,6 +7,8 @@
 
 # Tatiana Barros
 
+<img src="badges/creative-code.svg" height="28" alt="Creative code"> <img src="badges/dados-publicos.svg" height="28" alt="Dados públicos · Open data"> <img src="badges/experiencias.svg" height="28" alt="Experiências interativas · Interactive experiences"> <img src="badges/javascript.svg" height="28" alt="JavaScript"> <img src="badges/python.svg" height="28" alt="Python"> <img src="badges/autista-tdah.svg" height="28" alt="Autista e com TDAH · Autistic and ADHD"> <img src="badges/pt-en.svg" height="28" alt="Perfil bilíngue, português e inglês · Bilingual profile, Portuguese and English">
+
 [🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
 
 </div>

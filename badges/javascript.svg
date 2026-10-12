@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="28" viewBox="0 0 106 28" role="img" aria-label="JavaScript">
+<title>JavaScript</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#323235"/><stop offset="1" stop-color="#1e1e21"/></linearGradient></defs>
+<rect x=".5" y=".5" width="105" height="27" rx="7" fill="url(#g)" stroke="#3a3a3e"/>
+
+<text x="14" y="14.0" dominant-baseline="central" fill="#d8d8dc" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace" font-size="13" font-weight="600" letter-spacing=".02em">JavaScript</text>
+</svg>
