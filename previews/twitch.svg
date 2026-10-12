@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" aria-labelledby="t"><title id="t">Indicador "ao vivo" piscando e um relógio de foco girando, como numa live de co-estudo</title><style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<style>.dot{animation:b 1.6s ease-in-out infinite}@keyframes b{50%{opacity:.2}}
+.h{transform-origin:330px 80px;animation:r 8s linear infinite}@keyframes r{to{transform:rotate(360deg)}}</style>
+<rect width="480" height="160" fill="#f4f1ea"/><circle class="dot" cx="40" cy="40" r="7" fill="#111"/>
+<text x="56" y="46" font-family="monospace" font-size="16" fill="#111">AO VIVO · co-estudo</text>
+<text x="40" y="100" font-family="monospace" font-size="28" fill="#111">25:00 foco</text>
+<circle cx="330" cy="80" r="44" fill="none" stroke="#111" stroke-width="3"/><line class="h" x1="330" y1="80" x2="330" y2="44" stroke="#111" stroke-width="3" stroke-linecap="round"/></svg>

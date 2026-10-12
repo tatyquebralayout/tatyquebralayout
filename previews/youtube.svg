@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" aria-labelledby="t"><title id="t">Botão de play pulsando sobre uma tela em preto e branco</title><style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<style>.p{transform-origin:240px 80px;animation:p 2.4s ease-in-out infinite}@keyframes p{0%,100%{transform:scale(1)}50%{transform:scale(1.12)}}
+.bar{fill:#f4f1ea;transform-origin:left;animation:g 6s linear infinite}@keyframes g{from{transform:scaleX(0)}to{transform:scaleX(1)}}</style>
+<rect width="480" height="160" fill="#111"/><g class="p"><circle cx="240" cy="74" r="34" fill="none" stroke="#f4f1ea" stroke-width="3"/><path d="M230 58 L256 74 L230 90 Z" fill="#f4f1ea"/></g>
+<rect x="24" y="136" width="432" height="4" fill="#444"/><rect class="bar" x="24" y="136" width="432" height="4"/></svg>

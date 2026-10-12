@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" aria-labelledby="t"><title id="t">Linhas de texto sendo escritas numa página, como um conto surgindo</title><style>@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<style>.l{fill:#111;transform-origin:left;animation:w 4s infinite}.l2{animation-delay:.6s}.l3{animation-delay:1.2s}.l4{animation-delay:1.8s}
+@keyframes w{0%{transform:scaleX(0)}40%,85%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+.c{fill:#111;animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<rect width="480" height="160" fill="#f4f1ea"/><text x="24" y="34" font-family="Georgia,serif" font-size="16" fill="#111">conto nº —</text>
+<rect class="l" x="24" y="52" width="420" height="8" rx="2"/><rect class="l l2" x="24" y="74" width="380" height="8" rx="2"/>
+<rect class="l l3" x="24" y="96" width="400" height="8" rx="2"/><rect class="l l4" x="24" y="118" width="220" height="8" rx="2"/>
+<rect class="c" x="252" y="114" width="3" height="16"/></svg>

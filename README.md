@@ -25,18 +25,24 @@ Sou autista e tenho TDAH, e isso molda o meu jeito de criar e documentar: em rit
 <summary><b>🧬 O que eu escrevo na Mídia Ninja</b></summary>
 <br>
 Contos que misturam tecnologia, ficção científica e vida real.
+<br><br>
+<img src="previews/midia-ninja.svg" width="100%" alt="Linhas de um conto sendo escritas com um cursor piscando" />
 </details>
 
 <details>
 <summary><b>🎥 O que rola no YouTube</b></summary>
 <br>
 Estudo em público (#StudyWithMe): tecnologia, neurodivergência, ficção científica e jeitos de aprender pensados pra quem tem dificuldade cognitiva, emocional ou estrutural no processo.
+<br><br>
+<img src="previews/youtube.svg" width="100%" alt="Botão de play pulsando com a barra de progresso andando" />
 </details>
 
 <details>
 <summary><b>🔴 O que rola nas lives da Twitch</b></summary>
 <br>
 Co-estudo ao vivo, projetos open source sendo construídos na hora, conversas sobre carreira tech e criatividade.
+<br><br>
+<img src="previews/twitch.svg" width="100%" alt="Selo ao vivo · co-estudo piscando ao lado de um relógio de foco" />
 </details>
 
 ---
@@ -53,18 +59,24 @@ I'm autistic and have ADHD, and that shapes how I create and document: at sustai
 <summary><b>🧬 What I write at Mídia Ninja</b></summary>
 <br>
 Short stories (in Portuguese) that blend technology, science fiction and real life.
+<br><br>
+<img src="previews/midia-ninja.svg" width="100%" alt="Lines of a short story being typed with a blinking cursor" />
 </details>
 
 <details>
 <summary><b>🎥 What's on YouTube</b></summary>
 <br>
 Studying in public (#StudyWithMe): technology, neurodivergence, science fiction and ways of learning for people who face cognitive, emotional or structural barriers.
+<br><br>
+<img src="previews/youtube.svg" width="100%" alt="Play button pulsing as the progress bar moves" />
 </details>
 
 <details>
 <summary><b>🔴 What happens on the Twitch streams</b></summary>
 <br>
 Live co-study sessions, open source projects built on the spot, and conversations about tech careers and creativity.
+<br><br>
+<img src="previews/twitch.svg" width="100%" alt="Live co-study badge blinking next to a focus timer" />
 </details>
 
 ---
