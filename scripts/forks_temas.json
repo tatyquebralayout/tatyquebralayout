@@ -17,56 +17,56 @@
   },
   "temas": {
     "tema-ia": {
-      "titulo_pt": "IA",
-      "titulo_en": "AI",
+      "titulo_pt": "IA e agentes",
+      "titulo_en": "AI and agents",
       "intro_pt": "Agentes, modelos de linguagem, servidores MCP e skills.",
       "intro_en": "Agents, language models, MCP servers and skills.",
       "selo": "badges/tema-ia.svg"
     },
     "tema-dados": {
-      "titulo_pt": "Dados",
-      "titulo_en": "Data",
+      "titulo_pt": "Dados abertos",
+      "titulo_en": "Open data",
       "intro_pt": "Dados abertos, mapas, geoprocessamento e visualização.",
       "intro_en": "Open data, maps, GIS and visualization.",
       "selo": "badges/tema-dados.svg"
     },
     "tema-perfil-github": {
-      "titulo_pt": "Perfil do GitHub",
-      "titulo_en": "GitHub profile",
+      "titulo_pt": "Exemplos de perfil do GitHub",
+      "titulo_en": "GitHub profile examples",
       "intro_pt": "Exemplos de README de perfil que serviram de referência para o meu.",
       "intro_en": "Profile README examples that inspired mine.",
       "selo": "badges/tema-perfil-github.svg"
     },
     "tema-creative-code": {
-      "titulo_pt": "Código criativo",
+      "titulo_pt": "Creative code",
       "titulo_en": "Creative code",
       "intro_pt": "Arte generativa, animação e 3D.",
       "intro_en": "Generative art, animation and 3D.",
       "selo": "badges/tema-creative-code.svg"
     },
     "tema-web": {
-      "titulo_pt": "Experiências web",
-      "titulo_en": "Web experiences",
+      "titulo_pt": "Web e efeitos para sites",
+      "titulo_en": "Web and site effects",
       "intro_pt": "Bibliotecas e efeitos para sites.",
       "intro_en": "Libraries and effects for websites.",
       "selo": "badges/tema-web.svg"
     },
     "tema-docs": {
-      "titulo_pt": "Documentação e notas",
-      "titulo_en": "Docs and notes",
+      "titulo_pt": "Documentação e escrita",
+      "titulo_en": "Docs and writing",
       "intro_pt": "Documentação, Markdown, Obsidian e Notion.",
       "intro_en": "Documentation, Markdown, Obsidian and Notion.",
       "selo": "badges/tema-docs.svg"
     },
     "tema-futuros": {
-      "titulo_pt": "Estudos de futuro",
-      "titulo_en": "Futures studies",
+      "titulo_pt": "Futuros e previsão",
+      "titulo_en": "Futures and foresight",
       "intro_pt": "Horizon scanning, previsão e simulação.",
       "intro_en": "Horizon scanning, forecasting and simulation.",
       "selo": "badges/tema-futuros.svg"
     },
     "tema-estudos": {
-      "titulo_pt": "Cursos e estudos",
+      "titulo_pt": "Estudos e cursos",
       "titulo_en": "Learning",
       "intro_pt": "Cursos e materiais para aprender.",
       "intro_en": "Courses and learning materials.",
