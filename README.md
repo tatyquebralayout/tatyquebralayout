@@ -2,6 +2,9 @@
 
 <img src="dibarros-animated.webp" width="240" alt="Retrato em preto e branco de Tatiana Barros com uma pincelada preta sobre os olhos · Black and white portrait of Tatiana Barros with a black brushstroke across her eyes" />
 
+<a href="https://midianinja.org/author/tatianabarros/"><img src="keys/midia-ninja.svg" height="52" alt="Contos na Mídia Ninja"></a><a href="https://www.youtube.com/@umataldetatiana"><img src="keys/youtube.svg" height="52" alt="YouTube"></a><a href="https://www.twitch.tv/umataldetatiana"><img src="keys/twitch.svg" height="52" alt="Twitch"></a><br>
+<a href="https://www.linkedin.com/in/umataldetatiana"><img src="keys/linkedin.svg" height="52" alt="LinkedIn"></a><a href="https://twitter.com/umataldetatiana"><img src="keys/x.svg" height="52" alt="X"></a><a href="https://bsky.app/profile/umataldetatiana.bsky.social"><img src="keys/bluesky.svg" height="52" alt="Bluesky"></a><a href="https://www.instagram.com/umataldetatiana"><img src="keys/instagram.svg" height="52" alt="Instagram"></a><a href="https://dev.to/tatiquebralayout"><img src="keys/devto.svg" height="52" alt="Dev.to"></a>
+
 # Tatiana Barros
 
 [🇧🇷 Português](#-português) · [🇺🇸 English](#-english)
@@ -37,8 +40,6 @@ I'm autistic and have ADHD, and that shapes how I create and document: at sustai
 ---
 
 <div align="center">
-
-[LinkedIn](https://www.linkedin.com/in/umataldetatiana) · [Bluesky](https://bsky.app/profile/umataldetatiana.bsky.social) · [X](https://twitter.com/umataldetatiana) · [Instagram](https://www.instagram.com/umataldetatiana) · [Dev.to](https://dev.to/tatiquebralayout)
 
 <img src="https://raw.githubusercontent.com/tatyquebralayout/tatyquebralayout/output/github-contribution-grid-snake.svg" alt="Cobrinha comendo o gráfico de contribuições · Snake eating the contribution graph" />
 
