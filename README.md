@@ -21,8 +21,23 @@ Sou autista e tenho TDAH, e isso molda o meu jeito de criar e documentar: em rit
 
 ### Onde eu escrevo e crio
 
-- 🧬 Contos na [Mídia Ninja](https://midianinja.org/author/tatianabarros/).
-- 🎥 [YouTube](https://www.youtube.com/@umataldetatiana) e 🔴 [Twitch](https://www.twitch.tv/umataldetatiana): #StudyWithMe e lives construindo projetos.
+<details>
+<summary><b>🧬 O que eu escrevo na Mídia Ninja</b></summary>
+<br>
+Contos que misturam tecnologia, ficção científica e vida real.
+</details>
+
+<details>
+<summary><b>🎥 O que rola no YouTube</b></summary>
+<br>
+Estudo em público (#StudyWithMe): tecnologia, neurodivergência, ficção científica e jeitos de aprender pensados pra quem tem dificuldade cognitiva, emocional ou estrutural no processo.
+</details>
+
+<details>
+<summary><b>🔴 O que rola nas lives da Twitch</b></summary>
+<br>
+Co-estudo ao vivo, projetos open source sendo construídos na hora, conversas sobre carreira tech e criatividade.
+</details>
 
 ---
 
@@ -34,8 +49,23 @@ I'm autistic and have ADHD, and that shapes how I create and document: at sustai
 
 ### Where I write and create
 
-- 🧬 Short stories at [Mídia Ninja](https://midianinja.org/author/tatianabarros/) (in Portuguese).
-- 🎥 [YouTube](https://www.youtube.com/@umataldetatiana) and 🔴 [Twitch](https://www.twitch.tv/umataldetatiana): #StudyWithMe and building projects live.
+<details>
+<summary><b>🧬 What I write at Mídia Ninja</b></summary>
+<br>
+Short stories (in Portuguese) that blend technology, science fiction and real life.
+</details>
+
+<details>
+<summary><b>🎥 What's on YouTube</b></summary>
+<br>
+Studying in public (#StudyWithMe): technology, neurodivergence, science fiction and ways of learning for people who face cognitive, emotional or structural barriers.
+</details>
+
+<details>
+<summary><b>🔴 What happens on the Twitch streams</b></summary>
+<br>
+Live co-study sessions, open source projects built on the spot, and conversations about tech careers and creativity.
+</details>
 
 ---
 
