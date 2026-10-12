@@ -1,0 +1,30 @@
+{
+  "_sobre": "Nomes, introduções e selos de cada tema da página FORKS.md. Edite aqui (não no FORKS.md, que é regerado toda semana). intro_pt/intro_en: texto do Tech Writer. selo: caminho do SVG do Motion Designer; enquanto o arquivo não existir, a página mostra só um comentário no lugar.",
+  "adotar": {
+    "topic": "status-original-arquivado",
+    "titulo_pt": "Projetos para adotar",
+    "titulo_en": "Projects to adopt",
+    "intro_pt": "",
+    "intro_en": "",
+    "selo": "badges/status-original-arquivado.svg"
+  },
+  "sem_tema": {
+    "titulo_pt": "Sem tema ainda",
+    "titulo_en": "No theme yet",
+    "intro_pt": "",
+    "intro_en": ""
+  },
+  "temas": {
+    "tema-ia": {"titulo_pt": "IA", "titulo_en": "AI", "intro_pt": "", "intro_en": "", "selo": "badges/tema-ia.svg"},
+    "tema-dados": {"titulo_pt": "Dados", "titulo_en": "Data", "intro_pt": "", "intro_en": "", "selo": "badges/tema-dados.svg"},
+    "tema-perfil-github": {"titulo_pt": "Perfil do GitHub", "titulo_en": "GitHub profile", "intro_pt": "", "intro_en": "", "selo": "badges/tema-perfil-github.svg"},
+    "tema-creative-code": {"titulo_pt": "Código criativo", "titulo_en": "Creative code", "intro_pt": "", "intro_en": "", "selo": "badges/tema-creative-code.svg"},
+    "tema-web": {"titulo_pt": "Experiências web", "titulo_en": "Web experiences", "intro_pt": "", "intro_en": "", "selo": "badges/tema-web.svg"},
+    "tema-docs": {"titulo_pt": "Documentação e notas", "titulo_en": "Docs and notes", "intro_pt": "", "intro_en": "", "selo": "badges/tema-docs.svg"},
+    "tema-futuros": {"titulo_pt": "Estudos de futuro", "titulo_en": "Futures studies", "intro_pt": "", "intro_en": "", "selo": "badges/tema-futuros.svg"},
+    "tema-estudos": {"titulo_pt": "Cursos e estudos", "titulo_en": "Learning", "intro_pt": "", "intro_en": "", "selo": "badges/tema-estudos.svg"},
+    "tema-automacao": {"titulo_pt": "Automação", "titulo_en": "Automation", "intro_pt": "", "intro_en": "", "selo": "badges/tema-automacao.svg"},
+    "tema-ferramentas": {"titulo_pt": "Ferramentas", "titulo_en": "Tools", "intro_pt": "", "intro_en": "", "selo": "badges/tema-ferramentas.svg"},
+    "tema-portugues": {"titulo_pt": "Programação em português", "titulo_en": "Programming in Portuguese", "intro_pt": "", "intro_en": "", "selo": "badges/tema-portugues.svg"}
+  }
+}
