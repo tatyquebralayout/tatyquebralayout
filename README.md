@@ -92,3 +92,8 @@ Live co-study sessions, open source projects built on the spot, and conversation
 </picture>
 
 </div>
+
+<div align="center">
+<img src="octocat-feito-a-mao.gif" width="120" alt="Octocat do GitHub desenhado à mão, tremendo de leve · Hand-drawn GitHub Octocat, gently wobbling" />
+<br><sub>obrigada pela visita · thanks for stopping by</sub>
+</div>
