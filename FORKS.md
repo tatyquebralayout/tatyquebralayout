@@ -21,6 +21,7 @@ Projetos de outras pessoas que eu copiei para estudar, testar ou trabalhar em ci
 | [Automação · Automation](#tema-automacao) `tema-automacao` | 8 |
 | [Ferramentas · Tools](#tema-ferramentas) `tema-ferramentas` | 7 |
 | [Programação em português · Programming in Portuguese](#tema-portugues) `tema-portugues` | 7 |
+| [Sem tema ainda · No theme yet](#sem-tema) | 1 |
 
 <a id="status-original-arquivado"></a>
 
@@ -354,6 +355,16 @@ Materiais e projetos de programação escritos em português.
 - **[liquido](https://github.com/tatyquebralayout/liquido)** · original: [DesignLiquido/liquido](https://github.com/DesignLiquido/liquido) · Conjunto de ferramentas para desenvolvimento de aplicações para a internet 100% em português. · `TypeScript` _(também em · also in [Web e efeitos para sites](#tema-web))_
 - **[LMHT](https://github.com/tatyquebralayout/LMHT)** · original: [DesignLiquido/LMHT](https://github.com/DesignLiquido/LMHT) · Especificação da Linguagem de Marcação Hiper Texto, LMHT · `XSLT` _(também em · also in [Web e efeitos para sites](#tema-web))_
 - **[portugol-padroes](https://github.com/tatyquebralayout/portugol-padroes)** · original: [leonelsanchesdasilva/portugol-padroes](https://github.com/leonelsanchesdasilva/portugol-padroes) · Repositório voltado a discutir padrões de linguagem do Portugol. · `Ruby`
+
+<a id="sem-tema"></a>
+
+## Sem tema ainda · No theme yet (1)
+
+Forks que ainda não ganharam tag de tema.
+
+*Forks that don't have a theme tag yet.*
+
+- **[rea](https://github.com/tatyquebralayout/rea)** · original: [morluto/rea](https://github.com/morluto/rea) · Reverse engineer anything with agents, from app behavior down to native binaries. · `TypeScript`
 
 ---
 
