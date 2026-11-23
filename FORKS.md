@@ -15,13 +15,13 @@ Projetos de outras pessoas que eu copiei para estudar, testar ou trabalhar em ci
 | [Exemplos de perfil do GitHub · GitHub profile examples](#tema-perfil-github) `tema-perfil-github` | 26 |
 | [Creative code · Creative code](#tema-creative-code) `tema-creative-code` | 20 |
 | [Web e efeitos para sites · Web and site effects](#tema-web) `tema-web` | 19 |
-| [Documentação e escrita · Docs and writing](#tema-docs) `tema-docs` | 17 |
+| [Documentação e escrita · Docs and writing](#tema-docs) `tema-docs` | 16 |
 | [Futuros e previsão · Futures and foresight](#tema-futuros) `tema-futuros` | 16 |
 | [Estudos e cursos · Learning](#tema-estudos) `tema-estudos` | 10 |
-| [Automação · Automation](#tema-automacao) `tema-automacao` | 8 |
+| [Automação · Automation](#tema-automacao) `tema-automacao` | 7 |
 | [Ferramentas · Tools](#tema-ferramentas) `tema-ferramentas` | 7 |
 | [Programação em português · Programming in Portuguese](#tema-portugues) `tema-portugues` | 7 |
-| [Sem tema ainda · No theme yet](#sem-tema) | 157 |
+| [Sem tema ainda · No theme yet](#sem-tema) | 166 |
 
 <a id="status-original-arquivado"></a>
 
@@ -146,7 +146,7 @@ Exemplos de README de perfil que serviram de referência para o meu.
 - **[gargakshit](https://github.com/tatyquebralayout/gargakshit)** · original: [gargakshit/gargakshit](https://github.com/gargakshit/gargakshit) · My GitHub README 📜
 - **[gitmon](https://github.com/tatyquebralayout/gitmon)** · original: [isabellaherman/gitmon](https://github.com/isabellaherman/gitmon) · Check your ranking in GitHub and level up your monster! Don't forget to star ⭐ this repository… · `TypeScript`
 - **[glaucia86](https://github.com/tatyquebralayout/glaucia86)** · original: [glaucia86/glaucia86](https://github.com/glaucia86/glaucia86) · Repository Profile
-- **[guilyx](https://github.com/tatyquebralayout/guilyx)** · original: [guilyx/guilyx](https://github.com/guilyx/guilyx) · Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if… · `Python`
+- **[guilyx](https://github.com/tatyquebralayout/guilyx)** · original: [guilyx/guilyx](https://github.com/guilyx/guilyx) · Dynamic Profile with github statistics, coding info (time and languages) with WakaTime and music status with the spotify API, leave a ⭐ if… · `TypeScript`
 - **[itgoyo](https://github.com/tatyquebralayout/itgoyo)** · original: [itgoyo/itgoyo](https://github.com/itgoyo/itgoyo) · a beautiful template make your github profile look awesome ，give me a star , plz orz · `Python`
 - **[JessicaLim8](https://github.com/tatyquebralayout/JessicaLim8)** · original: [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8) · Profile ReadME! Join my community word cloud! · `Ruby`
 - **[lifeparticle](https://github.com/tatyquebralayout/lifeparticle)** · original: [lifeparticle/lifeparticle](https://github.com/lifeparticle/lifeparticle) · 📠 A Self-Updating Public Profile for GitHub · `Python`
@@ -227,7 +227,7 @@ Bibliotecas e efeitos para sites.
 
 <a id="tema-docs"></a>
 
-## Documentação e escrita · Docs and writing (17)
+## Documentação e escrita · Docs and writing (16)
 
 <img src="badges/tema-docs.svg" height="28" alt="Documentação e escrita · Docs and writing">
 
@@ -251,7 +251,6 @@ Documentação, Markdown, Obsidian e Notion.
 - **[obsidian-mcp-tools](https://github.com/tatyquebralayout/obsidian-mcp-tools)** · original: [jacksteamdev/obsidian-mcp-tools](https://github.com/jacksteamdev/obsidian-mcp-tools) · Add Obsidian integrations like semantic search and custom Templater prompts to Claude or any MCP client. · `TypeScript` _(também em · also in [IA e agentes](#tema-ia); original arquivado · archived upstream)_
 - **[ObsidianToBookstackPlugin](https://github.com/tatyquebralayout/ObsidianToBookstackPlugin)** · original: [jaypyles/ObsidianToBookstackPlugin](https://github.com/jaypyles/ObsidianToBookstackPlugin) · Companion to my CLI tool "obsidian-to-bookstack". Allows for CLI tool usage in Obsidian. · `TypeScript` _(original arquivado · archived upstream)_
 - **[uxp-xd](https://github.com/tatyquebralayout/uxp-xd)** · original: [AdobeDocs/uxp-xd](https://github.com/AdobeDocs/uxp-xd) · Documentation for XD UXP Plugin API · `JavaScript`
-- **[z-api-docs](https://github.com/tatyquebralayout/z-api-docs)** · original: [Z-API/z-api-docs](https://github.com/Z-API/z-api-docs) · Documentação completa da API do Z-API · `JavaScript` _(também em · also in [Automação](#tema-automacao))_
 
 <a id="tema-futuros"></a>
 
@@ -303,7 +302,7 @@ Cursos e materiais para aprender.
 
 <a id="tema-automacao"></a>
 
-## Automação · Automation (8)
+## Automação · Automation (7)
 
 <img src="badges/tema-automacao.svg" height="28" alt="Automação · Automation">
 
@@ -318,7 +317,6 @@ n8n e automações para WhatsApp e Instagram.
 - **[n8n-docs](https://github.com/tatyquebralayout/n8n-docs)** · original: [n8n-io/n8n-docs](https://github.com/n8n-io/n8n-docs) · Documentation for n8n, a fair-code licensed automation tool with a free community edition and powerful enterprise options. Build AI… _(também em · also in [Documentação e escrita](#tema-docs))_
 - **[n8n-mcp](https://github.com/tatyquebralayout/n8n-mcp)** · original: [czlonkowski/n8n-mcp](https://github.com/czlonkowski/n8n-mcp) · A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you · `TypeScript` _(também em · also in [IA e agentes](#tema-ia))_
 - **[Windows-MCP](https://github.com/tatyquebralayout/Windows-MCP)** · original: [CursorTouch/Windows-MCP](https://github.com/CursorTouch/Windows-MCP) · MCP Server for Computer Use in Windows · `Python` _(também em · also in [IA e agentes](#tema-ia))_
-- **[z-api-docs](https://github.com/tatyquebralayout/z-api-docs)** · original: [Z-API/z-api-docs](https://github.com/Z-API/z-api-docs) · Documentação completa da API do Z-API · `JavaScript` _(também em · also in [Documentação e escrita](#tema-docs))_
 
 <a id="tema-ferramentas"></a>
 
@@ -358,12 +356,13 @@ Materiais e projetos de programação escritos em português.
 
 <a id="sem-tema"></a>
 
-## Sem tema ainda · No theme yet (157)
+## Sem tema ainda · No theme yet (166)
 
 Forks que ainda não ganharam tag de tema.
 
 *Forks that don't have a theme tag yet.*
 
+- **[3d.city](https://github.com/tatyquebralayout/3d.city)** · original: [lo-th/3d.city](https://github.com/lo-th/3d.city) · 3d city builder game · `JavaScript`
 - **[500cidades](https://github.com/tatyquebralayout/500cidades)** · original: [midianinja/500cidades](https://github.com/midianinja/500cidades)
 - **[abrete-codigo-datasets](https://github.com/tatyquebralayout/abrete-codigo-datasets)** · original: [shawee-io/abrete-codigo-datasets](https://github.com/shawee-io/abrete-codigo-datasets) · 🗃 Abre-te Código é um hackathon focado na expansão do acesso ao patrimônio cultural por meio do desenvolvimento de tecnologias a partir de…
 - **[afriadmin](https://github.com/tatyquebralayout/afriadmin)** · original: [afrimapr/afriadmin](https://github.com/afrimapr/afriadmin) · african admin boundaries · `R`
@@ -381,9 +380,11 @@ Forks que ainda não ganharam tag de tema.
 - **[brasil.io](https://github.com/tatyquebralayout/brasil.io)** · original: [turicas/brasil.io](https://github.com/turicas/brasil.io) · Backend do Brasil.IO (para código dos scripts de coleta de dados, veja o link na página de cada dataset) · `Python`
 - **[brian2](https://github.com/tatyquebralayout/brian2)** · original: [brian-team/brian2](https://github.com/brian-team/brian2) · Brian is a free, open source simulator for spiking neural networks. · `Python`
 - **[c302](https://github.com/tatyquebralayout/c302)** · original: [openworm/c302](https://github.com/openworm/c302) · The c302 framework for generating multiscale network models of C. elegans · `Python`
+- **[caesaria-game](https://github.com/tatyquebralayout/caesaria-game)** · original: [dalerank/caesaria-game](https://github.com/dalerank/caesaria-game) · Caesar III (Open source remake) · `C`
 - **[censobr](https://github.com/tatyquebralayout/censobr)** · original: [ipea/censobr](https://github.com/ipea/censobr) · `R`
 - **[censusreporter](https://github.com/tatyquebralayout/censusreporter)** · original: [censusreporter/censusreporter](https://github.com/censusreporter/censusreporter) · Census Reporter is a Knight News Challenge-funded project to make it easier for journalists to write stories using information from the… · `HTML`
 - **[city-codes](https://github.com/tatyquebralayout/city-codes)** · original: [datasets-br/city-codes](https://github.com/datasets-br/city-codes) · Brazilian city names and official codes, IBGE, LexML and others · `PLpgSQL`
+- **[citybound](https://github.com/tatyquebralayout/citybound)** · original: [citybound/citybound](https://github.com/citybound/citybound) · A work-in-progress, open-source, multi-player city simulation game. · `Rust`
 - **[ckan](https://github.com/tatyquebralayout/ckan)** · original: [ckan/ckan](https://github.com/ckan/ckan) · CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use… · `Python`
 - **[ckanext-canada](https://github.com/tatyquebralayout/ckanext-canada)** · original: [open-data/ckanext-canada](https://github.com/open-data/ckanext-canada) · Government of Canada CKAN Extension - Extension à CKAN du Gouvernement du Canada · `Python`
 - **[ckanext-dadosgovbr](https://github.com/tatyquebralayout/ckanext-dadosgovbr)** · original: [dadosgovbr/ckanext-dadosgovbr](https://github.com/dadosgovbr/ckanext-dadosgovbr) · Plugin / Tema do Portal Brasileiro de Dados Abertos do Governo Federal · `HTML`
@@ -436,8 +437,10 @@ Forks que ainda não ganharam tag de tema.
 - **[graph-api-500-cidades](https://github.com/tatyquebralayout/graph-api-500-cidades)** · original: [midianinja/graph-api-500-cidades](https://github.com/midianinja/graph-api-500-cidades) · `JavaScript`
 - **[ibge](https://github.com/tatyquebralayout/ibge)** · original: [leogregianin/ibge](https://github.com/leogregianin/ibge) · 🌎 Data collection of geographical divisions of Brazil by IBGE · `Python`
 - **[ipt](https://github.com/tatyquebralayout/ipt)** · original: [gbif/ipt](https://github.com/gbif/ipt) · GBIF Integrated Publishing Toolkit (IPT) · `Java`
+- **[isometric-city](https://github.com/tatyquebralayout/isometric-city)** · original: [amilich/isometric-city](https://github.com/amilich/isometric-city) · IsoCity: City building simulation game. · `TypeScript`
 - **[kepler.gl](https://github.com/tatyquebralayout/kepler.gl)** · original: [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) · Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets. · `TypeScript`
 - **[kml-brasil](https://github.com/tatyquebralayout/kml-brasil)** · original: [eduardo-veras/kml-brasil](https://github.com/eduardo-veras/kml-brasil) · Coordenadas geográficas de fronteiras (em KML e JSON) de estados e municípios brasileiros
+- **[kotcity](https://github.com/tatyquebralayout/kotcity)** · original: [kotcity/kotcity](https://github.com/kotcity/kotcity) · KotCity, an open source city simulator · `Kotlin`
 - **[Leaflet](https://github.com/tatyquebralayout/Leaflet)** · original: [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) · 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦 · `JavaScript`
 - **[leafmap](https://github.com/tatyquebralayout/leafmap)** · original: [opengeos/leafmap](https://github.com/opengeos/leafmap) · A Python package for interactive mapping and geospatial analysis with minimal coding in a Jupyter environment · `Python`
 - **[legisTaiwan](https://github.com/tatyquebralayout/legisTaiwan)** · original: [davidycliao/legisTaiwan](https://github.com/davidycliao/legisTaiwan) · legisTaiwan: An Interface to Access Taiwan Legislative API in R 台灣立法院國會系統 API · `R`
@@ -452,6 +455,7 @@ Forks que ainda não ganharam tag de tema.
 - **[mediawiki-extensions-Wikibase](https://github.com/tatyquebralayout/mediawiki-extensions-Wikibase)** · original: [wikimedia/mediawiki-extensions-Wikibase](https://github.com/wikimedia/mediawiki-extensions-Wikibase) · 🌐 The knowledge base software that drives Wikidata.org. Mirror from https://gerrit.wikimedia.org/g/mediawiki/extensions/Wikibase. See… · `PHP`
 - **[mesa](https://github.com/tatyquebralayout/mesa)** · original: [mesa/mesa](https://github.com/mesa/mesa) · Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors. · `Python`
 - **[mesa-geo](https://github.com/tatyquebralayout/mesa-geo)** · original: [mesa/mesa-geo](https://github.com/mesa/mesa-geo) · GIS Extension for Mesa Agent-Based Modeling · `Python`
+- **[micropolisJS](https://github.com/tatyquebralayout/micropolisJS)** · original: [graememcc/micropolisJS](https://github.com/graememcc/micropolisJS) · A port of Micropolis to JS/HTML5 · `JavaScript`
 - **[municipal-brazilian-geodata](https://github.com/tatyquebralayout/municipal-brazilian-geodata)** · original: [luizpedone/municipal-brazilian-geodata](https://github.com/luizpedone/municipal-brazilian-geodata) · GeoJSON data with municipal boundaries for all Brazilian cities. · `Python`
 - **[municipal-data](https://github.com/tatyquebralayout/municipal-data)** · original: [OpenUpSA/municipal-data](https://github.com/OpenUpSA/municipal-data) · API and website for exploring municipal financial performance. · `JavaScript`
 - **[municipios-br](https://github.com/tatyquebralayout/municipios-br)** · original: [mapaslivres/municipios-br](https://github.com/mapaslivres/municipios-br) · Dados em formato aberto sobre municípios e unidades federativas do Brasil.
@@ -469,10 +473,12 @@ Forks que ainda não ganharam tag de tema.
 - **[OpenAccess-1](https://github.com/tatyquebralayout/OpenAccess-1)** · original: [Smithsonian/OpenAccess](https://github.com/Smithsonian/OpenAccess) · Smithsonian Open Access Data Repository
 - **[openAFRICA](https://github.com/tatyquebralayout/openAFRICA)** · original: [CodeForAfrica/openAFRICA](https://github.com/CodeForAfrica/openAFRICA) · openAFRICA aims to be largest independent repository of open data on the African continent. This repo contains the primary deployment… · `Dockerfile`
 - **[openFEC](https://github.com/tatyquebralayout/openFEC)** · original: [fecgov/openFEC](https://github.com/fecgov/openFEC) · The first RESTful API for the Federal Election Commission. We're aiming to make campaign finance more accessible for journalists… · `Python`
+- **[OpenLoco](https://github.com/tatyquebralayout/OpenLoco)** · original: [OpenLoco/OpenLoco](https://github.com/OpenLoco/OpenLoco) · An open source re-implementation of Chris Sawyer's Locomotion · `C++`
 - **[openparliament](https://github.com/tatyquebralayout/openparliament)** · original: [michaelmulley/openparliament](https://github.com/michaelmulley/openparliament) · Keeping tabs on Canada's Parliament · `HTML`
 - **[OpenRefine](https://github.com/tatyquebralayout/OpenRefine)** · original: [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) · OpenRefine is a free, open source power tool for working with messy data and improving it · `Java`
 - **[openstates-scrapers](https://github.com/tatyquebralayout/openstates-scrapers)** · original: [openstates/openstates-scrapers](https://github.com/openstates/openstates-scrapers) · source for Open States scrapers · `Python`
 - **[openstreetmap-website](https://github.com/tatyquebralayout/openstreetmap-website)** · original: [openstreetmap/openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) · The Rails application that powers OpenStreetMap · `Ruby`
+- **[OpenTTD](https://github.com/tatyquebralayout/OpenTTD)** · original: [OpenTTD/OpenTTD](https://github.com/OpenTTD/OpenTTD) · OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe · `C++`
 - **[OpenWorm](https://github.com/tatyquebralayout/OpenWorm)** · original: [openworm/OpenWorm](https://github.com/openworm/OpenWorm) · Repository for the main Dockerfile with the OpenWorm software stack and project-wide issues · `Python`
 - **[OSBv2](https://github.com/tatyquebralayout/OSBv2)** · original: [OpenSourceBrain/OSBv2](https://github.com/OpenSourceBrain/OSBv2) · An updated version of the Open Source Brain platform · `Python`
 - **[osm-countries-geojson](https://github.com/tatyquebralayout/osm-countries-geojson)** · original: [Zaczero/osm-countries-geojson](https://github.com/Zaczero/osm-countries-geojson) · 🗺️ OpenStreetMap Countries GeoJSON — updated daily! · `Python`
@@ -500,6 +506,7 @@ Forks que ainda não ganharam tag de tema.
 - **[sibernetic](https://github.com/tatyquebralayout/sibernetic)** · original: [openworm/sibernetic](https://github.com/openworm/sibernetic) · This is a C++/OpenCL implementation of the PCISPH algorithm supplemented with a set of biomechanics related features applied to C. elegans… · `C`
 - **[sidrapy](https://github.com/tatyquebralayout/sidrapy)** · original: [AlanTaranti/sidrapy](https://github.com/AlanTaranti/sidrapy) · A library that provides a python interface for the IBGE SIDRA API. · `Python`
 - **[sidrar](https://github.com/tatyquebralayout/sidrar)** · original: [rpradosiqueira/sidrar](https://github.com/rpradosiqueira/sidrar) · A R interface to IBGE's SIDRA API · `R`
+- **[simutrans](https://github.com/tatyquebralayout/simutrans)** · original: [simutrans/simutrans](https://github.com/simutrans/simutrans) · `C++`
 - **[sismo-abierto](https://github.com/tatyquebralayout/sismo-abierto)** · original: [crafter-research/sismo-abierto](https://github.com/crafter-research/sismo-abierto) · Sismos oficiales de Perú y Colombia con datos trazables del IGP y el SGC: mapas, catálogos, API, CLI, ondas, volcanes y salud de fuentes. · `TypeScript`
 - **[sistema-web-pindorama](https://github.com/tatyquebralayout/sistema-web-pindorama)** · original: [TheLovelace/sistema-web-pindorama](https://github.com/TheLovelace/sistema-web-pindorama) · Aplicação web para difundir conteúdos sobre o Patrimônio Cultural Imaterial Brasileiro. · `JavaScript`
 - **[sitios_urb](https://github.com/tatyquebralayout/sitios_urb)** · original: [felipe6769/sitios_urb](https://github.com/felipe6769/sitios_urb) · Sítios arqueológicos Área Urbana IPHAN 2024\_01
@@ -514,7 +521,7 @@ Forks que ainda não ganharam tag de tema.
 - **[udata-front](https://github.com/tatyquebralayout/udata-front)** · original: [datagouv/udata-front](https://github.com/datagouv/udata-front) · udata customizations for data.gouv.fr. · `TypeScript`
 - **[umd-lib-opendata](https://github.com/tatyquebralayout/umd-lib-opendata)** · original: [wallberg/umd-lib-opendata](https://github.com/wallberg/umd-lib-opendata) · University of Maryland Libraries Open Data Website · `Python`
 - **[unesco-api](https://github.com/tatyquebralayout/unesco-api)** · original: [eprendergast/unesco-api](https://github.com/eprendergast/unesco-api) · An open API providing access to the UNESCO World Heritage Site data. · `Ruby`
-- **[unesco-world-heritage-sites](https://github.com/tatyquebralayout/unesco-world-heritage-sites)** · original: [brandonhimpfen/unesco-world-heritage-sites](https://github.com/brandonhimpfen/unesco-world-heritage-sites) · List of UNESCO World Heritage Sites sorted by country and alphabetically.
+- **[unesco-world-heritage-sites](https://github.com/tatyquebralayout/unesco-world-heritage-sites)** · original: [brandondatasets/unesco-world-heritage-sites](https://github.com/brandondatasets/unesco-world-heritage-sites) · List of UNESCO World Heritage Sites sorted by country and alphabetically.
 - **[usaspending-api](https://github.com/tatyquebralayout/usaspending-api)** · original: [fedspendingtransparency/usaspending-api](https://github.com/fedspendingtransparency/usaspending-api) · Server application to serve U.S. federal spending data via a RESTful API · `Python`
 - **[UWHS](https://github.com/tatyquebralayout/UWHS)** · original: [rich-iannone/UWHS](https://github.com/rich-iannone/UWHS) · R dataset containing information on UNESCO World Heritage Sites · `R`
 - **[whosonfirst-data](https://github.com/tatyquebralayout/whosonfirst-data)** · original: [whosonfirst-data/whosonfirst-data](https://github.com/whosonfirst-data/whosonfirst-data) · Who's On First is a gazetteer of places.
